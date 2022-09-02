@@ -1,2 +1,2 @@
 # -SITE2-Deneme
-site-2
+https://alioglumusa.github.io/-SITE2-Deneme/
